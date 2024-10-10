@@ -1,0 +1,45 @@
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.csproj.AssemblyReference.cache
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.exe.config
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.ClientesForm.resources
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Properties.Resources.resources
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.csproj.GenerateResource.cache
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\CRM IngSoftware.exe.config
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\CRM IngSoftware.exe
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\CRM IngSoftware.pdb
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\Google.Protobuf.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\MySql.Data.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Buffers.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.IO.Pipelines.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Memory.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\ZstdSharp.dll
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\Google.Protobuf.pdb
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\Google.Protobuf.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\MySql.Data.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Buffers.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.IO.Pipelines.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Memory.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM IngS.BAAF5082.Up2Date
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.exe
+C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.pdb
