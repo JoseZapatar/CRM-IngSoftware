@@ -160,6 +160,24 @@
     <EmbeddedResource Include="Presentation\ClientesForm.resx">
       <DependentUpon>ClientesForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GestionUsuariosForm.resx">
+      <DependentUpon>GestionUsuariosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ProductosForm.resx">
+      <DependentUpon>ProductosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ReportesForm.resx">
+      <DependentUpon>ReportesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\VentasForm.resx">
+      <DependentUpon>VentasForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -168,6 +186,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -182,6 +201,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cliente.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cliente2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gestion-de-relaciones-con-el-cliente.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

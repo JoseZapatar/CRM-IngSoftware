@@ -43,3 +43,53 @@ C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\bin\Debug\System.Thr
 C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM IngS.BAAF5082.Up2Date
 C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.exe
 C:\Users\josea\source\repos\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.pdb
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\CRM IngSoftware.exe.config
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\CRM IngSoftware.exe
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\CRM IngSoftware.pdb
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\BouncyCastle.Cryptography.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\Google.Protobuf.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\K4os.Compression.LZ4.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\K4os.Hash.xxHash.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\MySql.Data.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Buffers.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.IO.Pipelines.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Memory.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Numerics.Vectors.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\ZstdSharp.dll
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\BouncyCastle.Cryptography.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\Google.Protobuf.pdb
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\Google.Protobuf.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\K4os.Compression.LZ4.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\K4os.Hash.xxHash.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\MySql.Data.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Buffers.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.IO.Pipelines.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Memory.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Numerics.Vectors.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.csproj.AssemblyReference.cache
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.exe.config
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.ClientesForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GestionUsuariosForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.LoginForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.MainForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.ProductosForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.ReportesForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.VentasForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Properties.Resources.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.csproj.GenerateResource.cache
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.csproj.CoreCompileInputs.cache
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.csproj.CopyComplete
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.exe
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM IngSoftware.pdb
