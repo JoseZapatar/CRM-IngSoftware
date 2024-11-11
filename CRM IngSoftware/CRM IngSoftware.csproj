@@ -84,6 +84,8 @@
       <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Windows.Forms.DataVisualization.Design" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -99,12 +101,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Business\GestionClientes.cs" />
+    <Compile Include="Business\GestionEventos.cs" />
+    <Compile Include="Business\GestionOportunidades.cs" />
     <Compile Include="Business\GestionProductos.cs" />
     <Compile Include="Business\GestionReporte.cs" />
+    <Compile Include="Business\GestionTareas.cs" />
     <Compile Include="Business\GestionVentas.cs" />
     <Compile Include="Business\GestionSeguridad.cs" />
     <Compile Include="Business\GestionUsuarios.cs" />
     <Compile Include="Data\Cliente.cs" />
+    <Compile Include="Data\Oportunidad.cs" />
     <Compile Include="Data\Producto.cs" />
     <Compile Include="Data\Venta.cs" />
     <Compile Include="Data\DetalleVenta.cs" />
@@ -113,6 +119,24 @@
     <Compile Include="Data\Reporte.cs" />
     <Compile Include="Data\Contacto.cs" />
     <Compile Include="Data\DatabaseConnection.cs" />
+    <Compile Include="GraficoVentas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GraficoVentas.Designer.cs">
+      <DependentUpon>GraficoVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ActivosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ActivosForm.Designer.cs">
+      <DependentUpon>ActivosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CalendarioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CalendarioForm.Designer.cs">
+      <DependentUpon>CalendarioForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Presentation\ClientesForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -124,6 +148,12 @@
     </Compile>
     <Compile Include="Presentation\GestionUsuariosForm.Designer.cs">
       <DependentUpon>GestionUsuariosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GraficoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GraficoForm.Designer.cs">
+      <DependentUpon>GraficoForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Presentation\LoginForm.cs">
       <SubType>Form</SubType>
@@ -149,6 +179,12 @@
     <Compile Include="Presentation\ReportesForm.Designer.cs">
       <DependentUpon>ReportesForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Presentation\TareasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\TareasForm.Designer.cs">
+      <DependentUpon>TareasForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Presentation\VentasForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -157,11 +193,47 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GadgetCalendario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GadgetCalendario.Designer.cs">
+      <DependentUpon>GadgetCalendario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prueba.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Prueba.Designer.cs">
+      <DependentUpon>Prueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WidgetOportunidadesActivas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WidgetOportunidadesActivas.Designer.cs">
+      <DependentUpon>WidgetOportunidadesActivas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WidgetTareasPendientes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WidgetTareasPendientes.Designer.cs">
+      <DependentUpon>WidgetTareasPendientes.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GraficoVentas.resx">
+      <DependentUpon>GraficoVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ActivosForm.resx">
+      <DependentUpon>ActivosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CalendarioForm.resx">
+      <DependentUpon>CalendarioForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Presentation\ClientesForm.resx">
       <DependentUpon>ClientesForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentation\GestionUsuariosForm.resx">
       <DependentUpon>GestionUsuariosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GraficoForm.resx">
+      <DependentUpon>GraficoForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentation\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
@@ -174,6 +246,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Presentation\ReportesForm.resx">
       <DependentUpon>ReportesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\TareasForm.resx">
+      <DependentUpon>TareasForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentation\VentasForm.resx">
       <DependentUpon>VentasForm.cs</DependentUpon>
@@ -188,6 +263,18 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="GadgetCalendario.resx">
+      <DependentUpon>GadgetCalendario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prueba.resx">
+      <DependentUpon>Prueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WidgetOportunidadesActivas.resx">
+      <DependentUpon>WidgetOportunidadesActivas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WidgetTareasPendientes.resx">
+      <DependentUpon>WidgetTareasPendientes.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -200,7 +287,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\cliente.jpg" />

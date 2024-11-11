@@ -58,6 +58,45 @@ namespace CRM_IngSoftware.Presentation
             GestionUsuariosForm gestionUsuariosForm = new GestionUsuariosForm();
             gestionUsuariosForm.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gadgetCalendario1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ActivosForm activosForm = new ActivosForm();
+            activosForm.Show();
+        }
+
+        private void btnGrafico_Click(object sender, EventArgs e)
+        {
+            GraficoForm form = new GraficoForm();
+            form.Show();
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            TareasForm tareasForm = new TareasForm();
+            tareasForm.Show();
+        }
+
+        private void btnCalendario_Click(object sender, EventArgs e)
+        {
+            CalendarioForm form = new CalendarioForm();
+            form.Show();
+        }
     }
 
 }
