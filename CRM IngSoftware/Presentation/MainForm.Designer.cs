@@ -47,10 +47,7 @@
             this.btnTarea = new System.Windows.Forms.Button();
             this.btnGrafico = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-<<<<<<< HEAD
             this.button1 = new System.Windows.Forms.Button();
-=======
->>>>>>> 5a4cb3321a0b425f3b44fdf53042dcced1c171c2
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -135,9 +132,9 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(602, 452);
             this.panel1.TabIndex = 5;
-<<<<<<< HEAD
+
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
-=======
+
             // 
             // btnCalendario
             // 
@@ -164,7 +161,6 @@
             this.btnOportunidades.Text = "Oportunidades";
             this.btnOportunidades.UseVisualStyleBackColor = false;
             this.btnOportunidades.Click += new System.EventHandler(this.button2_Click);
->>>>>>> 5a4cb3321a0b425f3b44fdf53042dcced1c171c2
             // 
             // btnTarea
             // 
