@@ -131,6 +131,24 @@
     <Compile Include="Presentation\ActivosForm.Designer.cs">
       <DependentUpon>ActivosForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Presentation\AgregarEventoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\AgregarEventoForm.Designer.cs">
+      <DependentUpon>AgregarEventoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\AgregarOportunidadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\AgregarOportunidadForm.Designer.cs">
+      <DependentUpon>AgregarOportunidadForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\AgregarTareaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\AgregarTareaForm.Designer.cs">
+      <DependentUpon>AgregarTareaForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Presentation\CalendarioForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -166,6 +184,12 @@
     </Compile>
     <Compile Include="Presentation\MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\MainForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MainForm2.Designer.cs">
+      <DependentUpon>MainForm2.cs</DependentUpon>
     </Compile>
     <Compile Include="Presentation\ProductosForm.cs">
       <SubType>Form</SubType>
@@ -223,6 +247,15 @@
     <EmbeddedResource Include="Presentation\ActivosForm.resx">
       <DependentUpon>ActivosForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\AgregarEventoForm.resx">
+      <DependentUpon>AgregarEventoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\AgregarOportunidadForm.resx">
+      <DependentUpon>AgregarOportunidadForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\AgregarTareaForm.resx">
+      <DependentUpon>AgregarTareaForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Presentation\CalendarioForm.resx">
       <DependentUpon>CalendarioForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -240,6 +273,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Presentation\MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MainForm2.resx">
+      <DependentUpon>MainForm2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentation\ProductosForm.resx">
       <DependentUpon>ProductosForm.cs</DependentUpon>

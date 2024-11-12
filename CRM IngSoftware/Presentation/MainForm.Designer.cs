@@ -42,11 +42,12 @@
             this.btnGestionarUsuarios = new System.Windows.Forms.Button();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.btnGrafico = new System.Windows.Forms.Button();
-            this.btnTarea = new System.Windows.Forms.Button();
-            this.btnOportunidades = new System.Windows.Forms.Button();
             this.btnCalendario = new System.Windows.Forms.Button();
+            this.btnOportunidades = new System.Windows.Forms.Button();
+            this.btnTarea = new System.Windows.Forms.Button();
+            this.btnGrafico = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -120,6 +121,7 @@
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.Info;
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.btnCalendario);
             this.panel1.Controls.Add(this.btnOportunidades);
             this.panel1.Controls.Add(this.btnTarea);
@@ -130,55 +132,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(602, 452);
             this.panel1.TabIndex = 5;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::CRM_IngSoftware.Properties.Resources.crm;
-            this.pictureBox1.Location = new System.Drawing.Point(147, 63);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(305, 260);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            // 
-            // btnGrafico
-            // 
-            this.btnGrafico.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.btnGrafico.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGrafico.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnGrafico.Location = new System.Drawing.Point(58, 343);
-            this.btnGrafico.Name = "btnGrafico";
-            this.btnGrafico.Size = new System.Drawing.Size(100, 50);
-            this.btnGrafico.TabIndex = 6;
-            this.btnGrafico.Text = "Grafico Ventas";
-            this.btnGrafico.UseVisualStyleBackColor = false;
-            this.btnGrafico.Click += new System.EventHandler(this.btnGrafico_Click);
-            // 
-            // btnTarea
-            // 
-            this.btnTarea.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.btnTarea.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTarea.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnTarea.Location = new System.Drawing.Point(174, 343);
-            this.btnTarea.Name = "btnTarea";
-            this.btnTarea.Size = new System.Drawing.Size(100, 50);
-            this.btnTarea.TabIndex = 7;
-            this.btnTarea.Text = "Tareas";
-            this.btnTarea.UseVisualStyleBackColor = false;
-            this.btnTarea.Click += new System.EventHandler(this.button1_Click_1);
-            // 
-            // btnOportunidades
-            // 
-            this.btnOportunidades.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.btnOportunidades.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnOportunidades.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnOportunidades.Location = new System.Drawing.Point(290, 343);
-            this.btnOportunidades.Name = "btnOportunidades";
-            this.btnOportunidades.Size = new System.Drawing.Size(100, 50);
-            this.btnOportunidades.TabIndex = 8;
-            this.btnOportunidades.Text = "Oportunidades";
-            this.btnOportunidades.UseVisualStyleBackColor = false;
-            this.btnOportunidades.Click += new System.EventHandler(this.button2_Click);
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // btnCalendario
             // 
@@ -193,6 +147,68 @@
             this.btnCalendario.UseVisualStyleBackColor = false;
             this.btnCalendario.Click += new System.EventHandler(this.btnCalendario_Click);
             // 
+            // btnOportunidades
+            // 
+            this.btnOportunidades.BackColor = System.Drawing.SystemColors.WindowFrame;
+            this.btnOportunidades.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOportunidades.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnOportunidades.Location = new System.Drawing.Point(290, 343);
+            this.btnOportunidades.Name = "btnOportunidades";
+            this.btnOportunidades.Size = new System.Drawing.Size(100, 50);
+            this.btnOportunidades.TabIndex = 8;
+            this.btnOportunidades.Text = "Oportunidades";
+            this.btnOportunidades.UseVisualStyleBackColor = false;
+            this.btnOportunidades.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // btnTarea
+            // 
+            this.btnTarea.BackColor = System.Drawing.SystemColors.WindowFrame;
+            this.btnTarea.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTarea.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnTarea.Location = new System.Drawing.Point(174, 343);
+            this.btnTarea.Name = "btnTarea";
+            this.btnTarea.Size = new System.Drawing.Size(100, 50);
+            this.btnTarea.TabIndex = 7;
+            this.btnTarea.Text = "Tareas";
+            this.btnTarea.UseVisualStyleBackColor = false;
+            this.btnTarea.Click += new System.EventHandler(this.button1_Click_1);
+            // 
+            // btnGrafico
+            // 
+            this.btnGrafico.BackColor = System.Drawing.SystemColors.WindowFrame;
+            this.btnGrafico.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGrafico.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnGrafico.Location = new System.Drawing.Point(58, 343);
+            this.btnGrafico.Name = "btnGrafico";
+            this.btnGrafico.Size = new System.Drawing.Size(100, 50);
+            this.btnGrafico.TabIndex = 6;
+            this.btnGrafico.Text = "Grafico Ventas";
+            this.btnGrafico.UseVisualStyleBackColor = false;
+            this.btnGrafico.Click += new System.EventHandler(this.btnGrafico_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::CRM_IngSoftware.Properties.Resources.crm;
+            this.pictureBox1.Location = new System.Drawing.Point(147, 63);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(305, 260);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.SystemColors.WindowFrame;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button1.Location = new System.Drawing.Point(490, 13);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(100, 31);
+            this.button1.TabIndex = 10;
+            this.button1.Text = "→";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click_2);
+            // 
             // MainForm
             // 
             this.BackColor = System.Drawing.SystemColors.Info;
@@ -205,6 +221,7 @@
             this.Controls.Add(this.btnGestionarUsuarios);
             this.Name = "MainForm";
             this.Text = "Sistema CRM - Principal";
+            this.Load += new System.EventHandler(this.MainForm_Load);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
@@ -220,6 +237,7 @@
         private System.Windows.Forms.Button btnTarea;
         private System.Windows.Forms.Button btnGrafico;
         private System.Windows.Forms.Button btnCalendario;
+        private System.Windows.Forms.Button button1;
     }
 }
 

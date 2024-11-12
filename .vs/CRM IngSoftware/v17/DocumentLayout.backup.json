@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\calendarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\calendarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\agregaroportunidadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\agregaroportunidadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|C:\\Users\\josea\\Documents\\CRM IngSoftware\\crm ingsoftware\\gadgetcalendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\gadgetcalendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\agregaroportunidadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\agregaroportunidadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\agregartareaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\agregartareaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\agregartareaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\agregartareaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|C:\\Users\\josea\\Documents\\CRM IngSoftware\\crm ingsoftware\\presentation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,19 +27,43 @@
       "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\tareasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\agregareventoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\agregareventoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\agregareventoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\agregareventoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\calendarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\calendarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|C:\\Users\\josea\\Documents\\CRM IngSoftware\\crm ingsoftware\\gadgetcalendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\gadgetcalendario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|C:\\Users\\josea\\Documents\\CRM IngSoftware\\crm ingsoftware\\presentation\\tareasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\tareasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\activosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|C:\\Users\\josea\\Documents\\CRM IngSoftware\\crm ingsoftware\\presentation\\activosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\activosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\graficoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|C:\\Users\\josea\\Documents\\CRM IngSoftware\\crm ingsoftware\\presentation\\graficoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\graficoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\graficoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|C:\\Users\\josea\\Documents\\CRM IngSoftware\\crm ingsoftware\\presentation\\graficoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\graficoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,7 +71,7 @@
       "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\graficoventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\graficoventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|C:\\Users\\josea\\Documents\\CRM IngSoftware\\crm ingsoftware\\graficoventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\graficoventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -130,19 +162,70 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GraficoForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\GraficoForm.cs",
-              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\GraficoForm.cs",
-              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\GraficoForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CRM IngSoftware\\Presentation\\GraficoForm.cs [Dise\u00F1o]",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\MainForm.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm.cs",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\MainForm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAlwHEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:27:58.922Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-11T07:09:30.178Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AgregarTareaForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarTareaForm.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\AgregarTareaForm.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarTareaForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\AgregarTareaForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:40:44.491Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgregarTareaForm.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarTareaForm.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\AgregarTareaForm.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarTareaForm.cs",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\AgregarTareaForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAtwG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:42:28.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarOportunidadForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:47:33.429Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgregarOportunidadForm.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs*",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:48:22.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainForm.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\MainForm.cs",
@@ -154,32 +237,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm.cs",
-              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\MainForm.cs",
-              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm.cs",
-              "RelativeToolTip": "CRM IngSoftware\\Presentation\\MainForm.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAtwGEAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AgregarEventoForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarEventoForm.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\AgregarEventoForm.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarEventoForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\AgregarEventoForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T07:09:30.178Z",
+              "WhenOpened": "2024-11-12T08:51:22.862Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgregarEventoForm.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarEventoForm.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\AgregarEventoForm.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarEventoForm.cs",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\AgregarEventoForm.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:53:50.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GadgetCalendario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\GadgetCalendario.cs",
-              "RelativeDocumentMoniker": "CRM IngSoftware\\GadgetCalendario.cs",
-              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\GadgetCalendario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CRM IngSoftware\\GadgetCalendario.cs [Dise\u00F1o]",
+              "DocumentIndex": 7,
+              "Title": "MainForm2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm2.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\MainForm2.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\MainForm2.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T07:04:45.748Z",
+              "WhenOpened": "2024-11-12T08:58:50.716Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "MainForm2.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm2.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\MainForm2.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm2.cs",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\MainForm2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:59:37.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CalendarioForm.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\CalendarioForm.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\CalendarioForm.cs",
@@ -190,61 +302,30 @@
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ActivosForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\ActivosForm.cs",
-              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\ActivosForm.cs",
-              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\ActivosForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CRM IngSoftware\\Presentation\\ActivosForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:29:09.704Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TareasForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\TareasForm.cs",
-              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\TareasForm.cs",
-              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\TareasForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CRM IngSoftware\\Presentation\\TareasForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:30:48.603Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GraficoForm.cs",
+              "DocumentIndex": 14,
+              "Title": "GraficoForm.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\GraficoForm.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\GraficoForm.cs",
-              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\GraficoForm.cs",
-              "RelativeToolTip": "CRM IngSoftware\\Presentation\\GraficoForm.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAWwBUAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\GraficoForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\GraficoForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:28:14.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T08:27:58.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GraficoVentas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\GraficoVentas.cs",
-              "RelativeDocumentMoniker": "CRM IngSoftware\\GraficoVentas.cs",
-              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\GraficoVentas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CRM IngSoftware\\GraficoVentas.cs [Dise\u00F1o]",
+              "DocumentIndex": 11,
+              "Title": "GadgetCalendario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\GadgetCalendario.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\GadgetCalendario.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\GadgetCalendario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CRM IngSoftware\\GadgetCalendario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:00:07.427Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-11T07:04:45.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "WidgetTareasPendientes.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Resources\\WidgetTareasPendientes.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Resources\\WidgetTareasPendientes.cs",
@@ -255,20 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GraficoVentas.cs",
-              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\GraficoVentas.cs",
-              "RelativeDocumentMoniker": "CRM IngSoftware\\GraficoVentas.cs",
-              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\GraficoVentas.cs",
-              "RelativeToolTip": "CRM IngSoftware\\GraficoVentas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:02:05.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "WidgetOportunidadesActivas.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Resources\\WidgetOportunidadesActivas.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Resources\\WidgetOportunidadesActivas.cs",
@@ -279,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "GadgetCalendario.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Resources\\GadgetCalendario.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Resources\\GadgetCalendario.cs",
@@ -290,7 +358,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
+              "Title": "ActivosForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\ActivosForm.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\ActivosForm.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\ActivosForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\ActivosForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:29:09.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TareasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\TareasForm.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\TareasForm.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\TareasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\TareasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:30:48.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GraficoForm.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\GraficoForm.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\GraficoForm.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\GraficoForm.cs",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\GraficoForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAWwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:28:14.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GraficoVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\GraficoVentas.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\GraficoVentas.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\GraficoVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CRM IngSoftware\\GraficoVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:00:07.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GraficoVentas.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\GraficoVentas.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\GraficoVentas.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\GraficoVentas.cs",
+              "RelativeToolTip": "CRM IngSoftware\\GraficoVentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:02:05.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "WidgetTareasPendientes.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\WidgetTareasPendientes.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\WidgetTareasPendientes.cs",
@@ -302,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\MainForm.Designer.cs",
@@ -315,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "GadgetCalendario.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\GadgetCalendario.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\GadgetCalendario.cs",
@@ -323,12 +448,11 @@
               "RelativeToolTip": "CRM IngSoftware\\GadgetCalendario.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA5wEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T07:14:58.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T07:14:58.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "WidgetTareasPendientes.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\WidgetTareasPendientes.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\WidgetTareasPendientes.cs",
@@ -339,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "WidgetOportunidadesActivas.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\WidgetOportunidadesActivas.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\WidgetOportunidadesActivas.cs",
@@ -351,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "WidgetOportunidadesActivas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\WidgetOportunidadesActivas.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\WidgetOportunidadesActivas.cs",
@@ -362,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "DatabaseConnection.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Data\\DatabaseConnection.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Data\\DatabaseConnection.cs",
@@ -374,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "app.config",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\app.config",
               "RelativeDocumentMoniker": "CRM IngSoftware\\app.config",
@@ -387,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "GadgetCalendario.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Resources\\GadgetCalendario.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Resources\\GadgetCalendario.cs",
@@ -398,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "WidgetTareasPendientes.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Resources\\WidgetTareasPendientes.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Resources\\WidgetTareasPendientes.cs",
@@ -409,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "WidgetOportunidadesActivas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Resources\\WidgetOportunidadesActivas.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Resources\\WidgetOportunidadesActivas.cs",
@@ -420,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "ClientesForm.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\ClientesForm.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\ClientesForm.cs",
@@ -432,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "Oportunidad.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Data\\Oportunidad.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Data\\Oportunidad.cs",
@@ -444,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "GestionEventos.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Business\\GestionEventos.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Business\\GestionEventos.cs",
@@ -456,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "GestionTareas.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Business\\GestionTareas.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Business\\GestionTareas.cs",
@@ -468,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "GestionOportunidades.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Business\\GestionOportunidades.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Business\\GestionOportunidades.cs",

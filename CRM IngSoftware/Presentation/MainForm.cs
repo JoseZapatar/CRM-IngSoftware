@@ -97,6 +97,22 @@ namespace CRM_IngSoftware.Presentation
             CalendarioForm form = new CalendarioForm();
             form.Show();
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            MainForm2 mainForm2 = new MainForm2();
+            mainForm2.Show();
+        }
     }
 
 }

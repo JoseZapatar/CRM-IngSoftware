@@ -153,3 +153,7 @@ C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftwa
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.CalendarioForm.resources
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GraficoForm.resources
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.TareasForm.resources
+C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.AgregarEventoForm.resources
+C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.AgregarOportunidadForm.resources
+C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.AgregarTareaForm.resources
+C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.MainForm2.resources
