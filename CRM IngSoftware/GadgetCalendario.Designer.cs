@@ -43,7 +43,8 @@
             // 
             // calendario
             // 
-            this.calendario.Location = new System.Drawing.Point(9, 28);
+            this.calendario.Location = new System.Drawing.Point(154, 170);
+            this.calendario.Margin = new System.Windows.Forms.Padding(12, 11, 12, 11);
             this.calendario.Name = "calendario";
             this.calendario.TabIndex = 0;
             this.calendario.DateSelected += new System.Windows.Forms.DateRangeEventHandler(this.calendario_DateSelected_1);
@@ -51,29 +52,35 @@
             // listEventos
             // 
             this.listEventos.FormattingEnabled = true;
-            this.listEventos.Location = new System.Drawing.Point(222, 28);
+            this.listEventos.ItemHeight = 16;
+            this.listEventos.Location = new System.Drawing.Point(483, 170);
+            this.listEventos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.listEventos.Name = "listEventos";
-            this.listEventos.Size = new System.Drawing.Size(266, 160);
+            this.listEventos.Size = new System.Drawing.Size(353, 196);
             this.listEventos.TabIndex = 1;
             // 
             // lblEventos
             // 
             this.lblEventos.AutoSize = true;
-            this.lblEventos.Location = new System.Drawing.Point(269, 191);
+            this.lblEventos.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))));
+            this.lblEventos.Location = new System.Drawing.Point(286, 45);
+            this.lblEventos.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblEventos.Name = "lblEventos";
-            this.lblEventos.Size = new System.Drawing.Size(58, 13);
+            this.lblEventos.Size = new System.Drawing.Size(348, 29);
             this.lblEventos.TabIndex = 2;
-            this.lblEventos.Text = "EVENTOS";
+            this.lblEventos.Text = "CALENDARIO DE EVENTOS";
             // 
             // GadgetCalendario
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.Info;
             this.Controls.Add(this.lblEventos);
             this.Controls.Add(this.listEventos);
             this.Controls.Add(this.calendario);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "GadgetCalendario";
-            this.Size = new System.Drawing.Size(711, 511);
+            this.Size = new System.Drawing.Size(948, 629);
             this.ResumeLayout(false);
             this.PerformLayout();
 

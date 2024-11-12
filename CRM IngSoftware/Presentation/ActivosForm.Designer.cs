@@ -28,31 +28,48 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.label1 = new System.Windows.Forms.Label();
             this.widgetOportunidades1 = new CRM_IngSoftware.WidgetOportunidades();
             this.SuspendLayout();
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))));
+            this.label1.Location = new System.Drawing.Point(435, 44);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(235, 29);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "OPORTUNIDADES";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
             // widgetOportunidades1
             // 
-            this.widgetOportunidades1.Location = new System.Drawing.Point(91, 12);
+            this.widgetOportunidades1.Location = new System.Drawing.Point(117, 185);
+            this.widgetOportunidades1.Margin = new System.Windows.Forms.Padding(5);
             this.widgetOportunidades1.Name = "widgetOportunidades1";
-            this.widgetOportunidades1.Size = new System.Drawing.Size(622, 199);
+            this.widgetOportunidades1.Size = new System.Drawing.Size(829, 245);
             this.widgetOportunidades1.TabIndex = 0;
             // 
             // ActivosForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.widgetOportunidades1);
+            this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "ActivosForm";
             this.Text = "ActivosForm";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
         private WidgetOportunidades widgetOportunidades1;
+        private System.Windows.Forms.Label label1;
     }
 }

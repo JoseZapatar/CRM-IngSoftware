@@ -153,7 +153,19 @@ C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftwa
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.CalendarioForm.resources
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GraficoForm.resources
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.TareasForm.resources
+<<<<<<< HEAD
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.AgregarEventoForm.resources
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.AgregarOportunidadForm.resources
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.AgregarTareaForm.resources
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.MainForm2.resources
+=======
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.GraficoVentas.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.ActivosForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.CalendarioForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GraficoForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.TareasForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.GadgetCalendario.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Prueba.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.WidgetOportunidades.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.WidgetTareas.resources
+>>>>>>> 5a4cb3321a0b425f3b44fdf53042dcced1c171c2

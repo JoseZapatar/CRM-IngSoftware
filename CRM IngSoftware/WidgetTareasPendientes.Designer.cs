@@ -38,36 +38,45 @@
             // listTareasPendientes
             // 
             this.listTareasPendientes.FormattingEnabled = true;
-            this.listTareasPendientes.Location = new System.Drawing.Point(3, 3);
+            this.listTareasPendientes.ItemHeight = 16;
+            this.listTareasPendientes.Location = new System.Drawing.Point(4, 4);
+            this.listTareasPendientes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.listTareasPendientes.Name = "listTareasPendientes";
-            this.listTareasPendientes.Size = new System.Drawing.Size(141, 121);
+            this.listTareasPendientes.Size = new System.Drawing.Size(287, 148);
             this.listTareasPendientes.TabIndex = 0;
             this.listTareasPendientes.SelectedIndexChanged += new System.EventHandler(this.lstTareas_SelectedIndexChanged);
             // 
             // btnActualizar
             // 
-            this.btnActualizar.Location = new System.Drawing.Point(198, 183);
+            this.btnActualizar.BackColor = System.Drawing.SystemColors.WindowFrame;
+            this.btnActualizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnActualizar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnActualizar.Location = new System.Drawing.Point(260, 226);
+            this.btnActualizar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnActualizar.Name = "btnActualizar";
-            this.btnActualizar.Size = new System.Drawing.Size(75, 23);
+            this.btnActualizar.Size = new System.Drawing.Size(124, 39);
             this.btnActualizar.TabIndex = 1;
             this.btnActualizar.Text = "Actualizar";
-            this.btnActualizar.UseVisualStyleBackColor = true;
+            this.btnActualizar.UseVisualStyleBackColor = false;
             this.btnActualizar.Click += new System.EventHandler(this.btnActualizar_Click_1);
             // 
             // listTareasCompletadas
             // 
             this.listTareasCompletadas.FormattingEnabled = true;
-            this.listTareasCompletadas.Location = new System.Drawing.Point(327, 3);
+            this.listTareasCompletadas.ItemHeight = 16;
+            this.listTareasCompletadas.Location = new System.Drawing.Point(349, 4);
+            this.listTareasCompletadas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.listTareasCompletadas.Name = "listTareasCompletadas";
-            this.listTareasCompletadas.Size = new System.Drawing.Size(155, 121);
+            this.listTareasCompletadas.Size = new System.Drawing.Size(316, 148);
             this.listTareasCompletadas.TabIndex = 2;
             // 
             // lblPendientes
             // 
             this.lblPendientes.AutoSize = true;
-            this.lblPendientes.Location = new System.Drawing.Point(36, 131);
+            this.lblPendientes.Location = new System.Drawing.Point(48, 161);
+            this.lblPendientes.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblPendientes.Name = "lblPendientes";
-            this.lblPendientes.Size = new System.Drawing.Size(76, 13);
+            this.lblPendientes.Size = new System.Drawing.Size(95, 17);
             this.lblPendientes.TabIndex = 3;
             this.lblPendientes.Text = "PENDIENTES";
             this.lblPendientes.Click += new System.EventHandler(this.lblPendientes_Click);
@@ -75,23 +84,25 @@
             // lblCompletadas
             // 
             this.lblCompletadas.AutoSize = true;
-            this.lblCompletadas.Location = new System.Drawing.Point(361, 131);
+            this.lblCompletadas.Location = new System.Drawing.Point(481, 161);
+            this.lblCompletadas.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblCompletadas.Name = "lblCompletadas";
-            this.lblCompletadas.Size = new System.Drawing.Size(87, 13);
+            this.lblCompletadas.Size = new System.Drawing.Size(111, 17);
             this.lblCompletadas.TabIndex = 4;
             this.lblCompletadas.Text = "COMPLETADAS";
             // 
             // WidgetTareas
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.lblCompletadas);
             this.Controls.Add(this.lblPendientes);
             this.Controls.Add(this.listTareasCompletadas);
             this.Controls.Add(this.btnActualizar);
             this.Controls.Add(this.listTareasPendientes);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "WidgetTareas";
-            this.Size = new System.Drawing.Size(524, 407);
+            this.Size = new System.Drawing.Size(699, 501);
             this.ResumeLayout(false);
             this.PerformLayout();
 

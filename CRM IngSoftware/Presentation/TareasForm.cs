@@ -16,5 +16,10 @@ namespace CRM_IngSoftware.Presentation
         {
             InitializeComponent();
         }
+
+        private void widgetTareas1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
