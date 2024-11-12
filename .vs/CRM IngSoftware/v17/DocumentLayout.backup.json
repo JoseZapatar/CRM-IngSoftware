@@ -204,8 +204,8 @@
               "Title": "AgregarOportunidadForm.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs",
-              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T08:47:33.429Z",
               "EditorCaption": " [Dise\u00F1o]"
@@ -216,12 +216,16 @@
               "Title": "AgregarOportunidadForm.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs",
               "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs",
-              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs*",
-              "RelativeToolTip": "CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs*",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\AgregarOportunidadForm.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAwwG8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T08:48:22.337Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -246,10 +250,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T08:51:22.862Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
