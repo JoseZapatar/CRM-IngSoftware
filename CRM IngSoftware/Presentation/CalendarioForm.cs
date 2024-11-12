@@ -16,5 +16,10 @@ namespace CRM_IngSoftware.Presentation
         {
             InitializeComponent();
         }
+
+        private void gadgetCalendario1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

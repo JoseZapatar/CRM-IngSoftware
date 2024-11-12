@@ -153,3 +153,12 @@ C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftwa
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.CalendarioForm.resources
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GraficoForm.resources
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.TareasForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.GraficoVentas.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.ActivosForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.CalendarioForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GraficoForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.TareasForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.GadgetCalendario.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Prueba.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.WidgetOportunidades.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.WidgetTareas.resources

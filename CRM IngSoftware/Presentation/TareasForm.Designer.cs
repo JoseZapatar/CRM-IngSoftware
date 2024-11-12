@@ -33,18 +33,21 @@
             // 
             // widgetTareas1
             // 
-            this.widgetTareas1.Location = new System.Drawing.Point(140, 56);
+            this.widgetTareas1.Location = new System.Drawing.Point(185, 63);
+            this.widgetTareas1.Margin = new System.Windows.Forms.Padding(5);
             this.widgetTareas1.Name = "widgetTareas1";
-            this.widgetTareas1.Size = new System.Drawing.Size(509, 328);
+            this.widgetTareas1.Size = new System.Drawing.Size(679, 404);
             this.widgetTareas1.TabIndex = 0;
+            this.widgetTareas1.Load += new System.EventHandler(this.widgetTareas1_Load);
             // 
             // TareasForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.widgetTareas1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "TareasForm";
             this.Text = "TareasForm";
             this.ResumeLayout(false);
