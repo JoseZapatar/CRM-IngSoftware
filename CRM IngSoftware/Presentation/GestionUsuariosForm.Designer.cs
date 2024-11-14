@@ -40,13 +40,15 @@
             this.btnEliminarUsuario = new System.Windows.Forms.Button();
             this.dgvUsuarios = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvUsuarios)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // txtNombre
             // 
             this.txtNombre.ForeColor = System.Drawing.Color.Gray;
-            this.txtNombre.Location = new System.Drawing.Point(69, 80);
+            this.txtNombre.Location = new System.Drawing.Point(105, 90);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(200, 22);
             this.txtNombre.TabIndex = 0;
@@ -57,7 +59,7 @@
             // txtCorreo
             // 
             this.txtCorreo.ForeColor = System.Drawing.Color.Gray;
-            this.txtCorreo.Location = new System.Drawing.Point(69, 151);
+            this.txtCorreo.Location = new System.Drawing.Point(105, 161);
             this.txtCorreo.Name = "txtCorreo";
             this.txtCorreo.Size = new System.Drawing.Size(200, 22);
             this.txtCorreo.TabIndex = 1;
@@ -68,7 +70,7 @@
             // txtContraseña
             // 
             this.txtContraseña.ForeColor = System.Drawing.Color.Gray;
-            this.txtContraseña.Location = new System.Drawing.Point(502, 80);
+            this.txtContraseña.Location = new System.Drawing.Point(538, 90);
             this.txtContraseña.Name = "txtContraseña";
             this.txtContraseña.Size = new System.Drawing.Size(200, 22);
             this.txtContraseña.TabIndex = 2;
@@ -79,7 +81,7 @@
             // chkEsAdministrador
             // 
             this.chkEsAdministrador.AutoSize = true;
-            this.chkEsAdministrador.Location = new System.Drawing.Point(502, 151);
+            this.chkEsAdministrador.Location = new System.Drawing.Point(538, 161);
             this.chkEsAdministrador.Name = "chkEsAdministrador";
             this.chkEsAdministrador.Size = new System.Drawing.Size(137, 21);
             this.chkEsAdministrador.TabIndex = 3;
@@ -91,7 +93,7 @@
             this.btnAgregarUsuario.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.btnAgregarUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAgregarUsuario.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnAgregarUsuario.Location = new System.Drawing.Point(769, 51);
+            this.btnAgregarUsuario.Location = new System.Drawing.Point(805, 61);
             this.btnAgregarUsuario.Name = "btnAgregarUsuario";
             this.btnAgregarUsuario.Size = new System.Drawing.Size(100, 40);
             this.btnAgregarUsuario.TabIndex = 4;
@@ -104,7 +106,7 @@
             this.btnEditarUsuario.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.btnEditarUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEditarUsuario.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.btnEditarUsuario.Location = new System.Drawing.Point(769, 101);
+            this.btnEditarUsuario.Location = new System.Drawing.Point(805, 111);
             this.btnEditarUsuario.Name = "btnEditarUsuario";
             this.btnEditarUsuario.Size = new System.Drawing.Size(100, 40);
             this.btnEditarUsuario.TabIndex = 5;
@@ -117,7 +119,7 @@
             this.btnEliminarUsuario.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.btnEliminarUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEliminarUsuario.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.btnEliminarUsuario.Location = new System.Drawing.Point(769, 151);
+            this.btnEliminarUsuario.Location = new System.Drawing.Point(805, 161);
             this.btnEliminarUsuario.Name = "btnEliminarUsuario";
             this.btnEliminarUsuario.Size = new System.Drawing.Size(100, 40);
             this.btnEliminarUsuario.TabIndex = 6;
@@ -129,7 +131,7 @@
             // 
             this.dgvUsuarios.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
             this.dgvUsuarios.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvUsuarios.Location = new System.Drawing.Point(30, 206);
+            this.dgvUsuarios.Location = new System.Drawing.Point(66, 216);
             this.dgvUsuarios.Name = "dgvUsuarios";
             this.dgvUsuarios.RowHeadersWidth = 51;
             this.dgvUsuarios.Size = new System.Drawing.Size(849, 215);
@@ -140,16 +142,27 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(343, 20);
+            this.label1.Location = new System.Drawing.Point(379, 30);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(144, 29);
             this.label1.TabIndex = 8;
             this.label1.Text = "USUARIOS";
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::CRM_IngSoftware.Properties.Resources.user;
+            this.pictureBox1.Location = new System.Drawing.Point(488, 28);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(35, 31);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 9;
+            this.pictureBox1.TabStop = false;
+            // 
             // GestionUsuariosForm
             // 
             this.BackColor = System.Drawing.SystemColors.Info;
-            this.ClientSize = new System.Drawing.Size(902, 450);
+            this.ClientSize = new System.Drawing.Size(992, 503);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.txtCorreo);
@@ -162,11 +175,13 @@
             this.Name = "GestionUsuariosForm";
             this.Text = "Gestionar Usuarios";
             ((System.ComponentModel.ISupportInitialize)(this.dgvUsuarios)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

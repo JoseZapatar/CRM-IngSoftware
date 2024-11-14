@@ -169,3 +169,9 @@ C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoft
 C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.WidgetOportunidades.resources
 C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.WidgetTareas.resources
 >>>>>>> 5a4cb3321a0b425f3b44fdf53042dcced1c171c2
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.AgregarEventoForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.AgregarOportunidadForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.AgregarTareaForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GestionContactoForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GestionInteraccionesForm.resources
+C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.MainForm2.resources

@@ -28,32 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnAgregarOportunidad = new System.Windows.Forms.Button();
             this.btnAgregarEvento = new System.Windows.Forms.Button();
             this.btnAgregarTarea = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::CRM_IngSoftware.Properties.Resources.crm;
-            this.pictureBox1.Location = new System.Drawing.Point(243, 12);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(305, 260);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 1;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // btnAgregarOportunidad
             // 
             this.btnAgregarOportunidad.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.btnAgregarOportunidad.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAgregarOportunidad.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnAgregarOportunidad.Location = new System.Drawing.Point(455, 278);
+            this.btnAgregarOportunidad.Location = new System.Drawing.Point(642, 381);
+            this.btnAgregarOportunidad.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnAgregarOportunidad.Name = "btnAgregarOportunidad";
-            this.btnAgregarOportunidad.Size = new System.Drawing.Size(100, 50);
+            this.btnAgregarOportunidad.Size = new System.Drawing.Size(120, 50);
             this.btnAgregarOportunidad.TabIndex = 11;
             this.btnAgregarOportunidad.Text = "Agregar Oportunidad";
             this.btnAgregarOportunidad.UseVisualStyleBackColor = false;
@@ -64,9 +54,10 @@
             this.btnAgregarEvento.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.btnAgregarEvento.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAgregarEvento.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnAgregarEvento.Location = new System.Drawing.Point(339, 278);
+            this.btnAgregarEvento.Location = new System.Drawing.Point(475, 381);
+            this.btnAgregarEvento.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnAgregarEvento.Name = "btnAgregarEvento";
-            this.btnAgregarEvento.Size = new System.Drawing.Size(100, 50);
+            this.btnAgregarEvento.Size = new System.Drawing.Size(120, 50);
             this.btnAgregarEvento.TabIndex = 10;
             this.btnAgregarEvento.Text = "Agregar Evento";
             this.btnAgregarEvento.UseVisualStyleBackColor = false;
@@ -77,24 +68,38 @@
             this.btnAgregarTarea.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.btnAgregarTarea.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAgregarTarea.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnAgregarTarea.Location = new System.Drawing.Point(223, 278);
+            this.btnAgregarTarea.Location = new System.Drawing.Point(304, 381);
+            this.btnAgregarTarea.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnAgregarTarea.Name = "btnAgregarTarea";
-            this.btnAgregarTarea.Size = new System.Drawing.Size(100, 50);
+            this.btnAgregarTarea.Size = new System.Drawing.Size(120, 50);
             this.btnAgregarTarea.TabIndex = 9;
             this.btnAgregarTarea.Text = "Agregar Tarea";
             this.btnAgregarTarea.UseVisualStyleBackColor = false;
             this.btnAgregarTarea.Click += new System.EventHandler(this.btnAgregarTarea_Click);
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::CRM_IngSoftware.Properties.Resources.crm;
+            this.pictureBox1.Location = new System.Drawing.Point(331, 54);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(407, 320);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
             // MainForm2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(992, 503);
             this.Controls.Add(this.btnAgregarOportunidad);
             this.Controls.Add(this.btnAgregarEvento);
             this.Controls.Add(this.btnAgregarTarea);
             this.Controls.Add(this.pictureBox1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "MainForm2";
             this.Text = "MainForm2";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

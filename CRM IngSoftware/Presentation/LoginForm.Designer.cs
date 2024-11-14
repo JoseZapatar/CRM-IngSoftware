@@ -40,14 +40,14 @@
             // 
             // txtCorreo
             // 
-            this.txtCorreo.Location = new System.Drawing.Point(336, 217);
+            this.txtCorreo.Location = new System.Drawing.Point(370, 226);
             this.txtCorreo.Name = "txtCorreo";
             this.txtCorreo.Size = new System.Drawing.Size(315, 22);
             this.txtCorreo.TabIndex = 2;
             // 
             // txtContraseña
             // 
-            this.txtContraseña.Location = new System.Drawing.Point(336, 305);
+            this.txtContraseña.Location = new System.Drawing.Point(370, 314);
             this.txtContraseña.Name = "txtContraseña";
             this.txtContraseña.Size = new System.Drawing.Size(315, 22);
             this.txtContraseña.TabIndex = 3;
@@ -58,7 +58,7 @@
             this.btnLogin.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.btnLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLogin.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnLogin.Location = new System.Drawing.Point(428, 378);
+            this.btnLogin.Location = new System.Drawing.Point(462, 387);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(136, 44);
             this.btnLogin.TabIndex = 4;
@@ -70,27 +70,27 @@
             // 
             this.lblCorreo.AutoSize = true;
             this.lblCorreo.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCorreo.Location = new System.Drawing.Point(263, 220);
+            this.lblCorreo.Location = new System.Drawing.Point(297, 229);
             this.lblCorreo.Name = "lblCorreo";
-            this.lblCorreo.Size = new System.Drawing.Size(62, 17);
+            this.lblCorreo.Size = new System.Drawing.Size(57, 17);
             this.lblCorreo.TabIndex = 0;
-            this.lblCorreo.Text = "Correo:";
+            this.lblCorreo.Text = "Correo";
             // 
             // lblContraseña
             // 
             this.lblContraseña.AutoSize = true;
             this.lblContraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblContraseña.Location = new System.Drawing.Point(229, 308);
+            this.lblContraseña.Location = new System.Drawing.Point(263, 317);
             this.lblContraseña.Name = "lblContraseña";
-            this.lblContraseña.Size = new System.Drawing.Size(96, 17);
+            this.lblContraseña.Size = new System.Drawing.Size(91, 17);
             this.lblContraseña.TabIndex = 1;
-            this.lblContraseña.Text = "Contraseña:";
+            this.lblContraseña.Text = "Contraseña";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(378, 20);
+            this.label1.Location = new System.Drawing.Point(400, 29);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(273, 32);
             this.label1.TabIndex = 5;
@@ -99,7 +99,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::CRM_IngSoftware.Properties.Resources.gestion_de_relaciones_con_el_cliente;
-            this.pictureBox1.Location = new System.Drawing.Point(417, 75);
+            this.pictureBox1.Location = new System.Drawing.Point(451, 84);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(137, 87);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -109,7 +109,7 @@
             // LoginForm
             // 
             this.BackColor = System.Drawing.SystemColors.Info;
-            this.ClientSize = new System.Drawing.Size(931, 475);
+            this.ClientSize = new System.Drawing.Size(992, 503);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblCorreo);

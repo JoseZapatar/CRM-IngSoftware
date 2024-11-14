@@ -40,13 +40,15 @@ private void InitializeComponent()
             this.btnEliminarCliente = new System.Windows.Forms.Button();
             this.dgvClientes = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvClientes)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // txtNombre
             // 
             this.txtNombre.ForeColor = System.Drawing.Color.Gray;
-            this.txtNombre.Location = new System.Drawing.Point(30, 82);
+            this.txtNombre.Location = new System.Drawing.Point(113, 85);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(262, 22);
             this.txtNombre.TabIndex = 0;
@@ -57,7 +59,7 @@ private void InitializeComponent()
             // txtCorreo
             // 
             this.txtCorreo.ForeColor = System.Drawing.Color.Gray;
-            this.txtCorreo.Location = new System.Drawing.Point(418, 83);
+            this.txtCorreo.Location = new System.Drawing.Point(501, 86);
             this.txtCorreo.Name = "txtCorreo";
             this.txtCorreo.Size = new System.Drawing.Size(250, 22);
             this.txtCorreo.TabIndex = 1;
@@ -68,7 +70,7 @@ private void InitializeComponent()
             // txtTelefono
             // 
             this.txtTelefono.ForeColor = System.Drawing.Color.Gray;
-            this.txtTelefono.Location = new System.Drawing.Point(30, 160);
+            this.txtTelefono.Location = new System.Drawing.Point(113, 163);
             this.txtTelefono.Name = "txtTelefono";
             this.txtTelefono.Size = new System.Drawing.Size(262, 22);
             this.txtTelefono.TabIndex = 2;
@@ -79,7 +81,7 @@ private void InitializeComponent()
             // txtDireccion
             // 
             this.txtDireccion.ForeColor = System.Drawing.Color.Gray;
-            this.txtDireccion.Location = new System.Drawing.Point(418, 160);
+            this.txtDireccion.Location = new System.Drawing.Point(501, 163);
             this.txtDireccion.Name = "txtDireccion";
             this.txtDireccion.Size = new System.Drawing.Size(250, 22);
             this.txtDireccion.TabIndex = 3;
@@ -92,7 +94,7 @@ private void InitializeComponent()
             this.btnAgregarCliente.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.btnAgregarCliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAgregarCliente.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnAgregarCliente.Location = new System.Drawing.Point(696, 64);
+            this.btnAgregarCliente.Location = new System.Drawing.Point(779, 67);
             this.btnAgregarCliente.Name = "btnAgregarCliente";
             this.btnAgregarCliente.Size = new System.Drawing.Size(100, 40);
             this.btnAgregarCliente.TabIndex = 4;
@@ -105,7 +107,7 @@ private void InitializeComponent()
             this.btnEditarCliente.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.btnEditarCliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEditarCliente.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnEditarCliente.Location = new System.Drawing.Point(696, 114);
+            this.btnEditarCliente.Location = new System.Drawing.Point(779, 117);
             this.btnEditarCliente.Name = "btnEditarCliente";
             this.btnEditarCliente.Size = new System.Drawing.Size(100, 40);
             this.btnEditarCliente.TabIndex = 5;
@@ -118,7 +120,7 @@ private void InitializeComponent()
             this.btnEliminarCliente.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.btnEliminarCliente.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEliminarCliente.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnEliminarCliente.Location = new System.Drawing.Point(696, 164);
+            this.btnEliminarCliente.Location = new System.Drawing.Point(779, 167);
             this.btnEliminarCliente.Name = "btnEliminarCliente";
             this.btnEliminarCliente.Size = new System.Drawing.Size(100, 40);
             this.btnEliminarCliente.TabIndex = 6;
@@ -130,7 +132,7 @@ private void InitializeComponent()
             // 
             this.dgvClientes.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
             this.dgvClientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvClientes.Location = new System.Drawing.Point(30, 224);
+            this.dgvClientes.Location = new System.Drawing.Point(113, 227);
             this.dgvClientes.Name = "dgvClientes";
             this.dgvClientes.RowHeadersWidth = 51;
             this.dgvClientes.Size = new System.Drawing.Size(766, 242);
@@ -141,16 +143,27 @@ private void InitializeComponent()
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(257, 20);
+            this.label1.Location = new System.Drawing.Point(275, 24);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(304, 29);
             this.label1.TabIndex = 8;
             this.label1.Text = "GESTIÓN DE CLIENTES";
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::CRM_IngSoftware.Properties.Resources.customer_service;
+            this.pictureBox1.Location = new System.Drawing.Point(524, 12);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(55, 52);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 9;
+            this.pictureBox1.TabStop = false;
+            // 
             // ClientesForm
             // 
             this.BackColor = System.Drawing.SystemColors.Info;
-            this.ClientSize = new System.Drawing.Size(830, 489);
+            this.ClientSize = new System.Drawing.Size(992, 503);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.txtCorreo);
@@ -163,6 +176,7 @@ private void InitializeComponent()
             this.Name = "ClientesForm";
             this.Text = "Gestionar Clientes";
             ((System.ComponentModel.ISupportInitialize)(this.dgvClientes)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -170,5 +184,6 @@ private void InitializeComponent()
 
         private System.IO.FileSystemWatcher fileSystemWatcher1;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }

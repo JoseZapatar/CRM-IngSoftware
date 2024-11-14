@@ -40,7 +40,7 @@
             this.listTareasPendientes.FormattingEnabled = true;
             this.listTareasPendientes.ItemHeight = 16;
             this.listTareasPendientes.Location = new System.Drawing.Point(4, 4);
-            this.listTareasPendientes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.listTareasPendientes.Margin = new System.Windows.Forms.Padding(4);
             this.listTareasPendientes.Name = "listTareasPendientes";
             this.listTareasPendientes.Size = new System.Drawing.Size(287, 148);
             this.listTareasPendientes.TabIndex = 0;
@@ -52,9 +52,9 @@
             this.btnActualizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnActualizar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnActualizar.Location = new System.Drawing.Point(260, 226);
-            this.btnActualizar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnActualizar.Margin = new System.Windows.Forms.Padding(4);
             this.btnActualizar.Name = "btnActualizar";
-            this.btnActualizar.Size = new System.Drawing.Size(124, 39);
+            this.btnActualizar.Size = new System.Drawing.Size(142, 39);
             this.btnActualizar.TabIndex = 1;
             this.btnActualizar.Text = "Actualizar";
             this.btnActualizar.UseVisualStyleBackColor = false;
@@ -65,7 +65,7 @@
             this.listTareasCompletadas.FormattingEnabled = true;
             this.listTareasCompletadas.ItemHeight = 16;
             this.listTareasCompletadas.Location = new System.Drawing.Point(349, 4);
-            this.listTareasCompletadas.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.listTareasCompletadas.Margin = new System.Windows.Forms.Padding(4);
             this.listTareasCompletadas.Name = "listTareasCompletadas";
             this.listTareasCompletadas.Size = new System.Drawing.Size(316, 148);
             this.listTareasCompletadas.TabIndex = 2;
@@ -73,10 +73,11 @@
             // lblPendientes
             // 
             this.lblPendientes.AutoSize = true;
+            this.lblPendientes.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPendientes.Location = new System.Drawing.Point(48, 161);
             this.lblPendientes.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblPendientes.Name = "lblPendientes";
-            this.lblPendientes.Size = new System.Drawing.Size(95, 17);
+            this.lblPendientes.Size = new System.Drawing.Size(113, 18);
             this.lblPendientes.TabIndex = 3;
             this.lblPendientes.Text = "PENDIENTES";
             this.lblPendientes.Click += new System.EventHandler(this.lblPendientes_Click);
@@ -84,10 +85,11 @@
             // lblCompletadas
             // 
             this.lblCompletadas.AutoSize = true;
+            this.lblCompletadas.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCompletadas.Location = new System.Drawing.Point(481, 161);
             this.lblCompletadas.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblCompletadas.Name = "lblCompletadas";
-            this.lblCompletadas.Size = new System.Drawing.Size(111, 17);
+            this.lblCompletadas.Size = new System.Drawing.Size(131, 18);
             this.lblCompletadas.TabIndex = 4;
             this.lblCompletadas.Text = "COMPLETADAS";
             // 
@@ -100,7 +102,7 @@
             this.Controls.Add(this.listTareasCompletadas);
             this.Controls.Add(this.btnActualizar);
             this.Controls.Add(this.listTareasPendientes);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "WidgetTareas";
             this.Size = new System.Drawing.Size(699, 501);
             this.ResumeLayout(false);
