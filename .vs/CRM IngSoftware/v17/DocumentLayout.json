@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|c:\\users\\josea\\documents\\crm ingsoftware\\crm ingsoftware\\presentation\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|C:\\Users\\josea\\Documents\\CRM IngSoftware\\crm ingsoftware\\presentation\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BCC878C1-C67B-40AB-8A04-DD75C002908D}|CRM IngSoftware\\CRM IngSoftware.csproj|solutionrelative:crm ingsoftware\\presentation\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -158,16 +158,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -183,18 +175,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainForm2.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm2.cs",
-              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\MainForm2.cs",
-              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm2.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CRM IngSoftware\\Presentation\\MainForm2.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:58:50.716Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 33,
               "Title": "WidgetOportunidadesActivas.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Resources\\WidgetOportunidadesActivas.cs",
@@ -203,19 +183,6 @@
               "RelativeToolTip": "CRM IngSoftware\\Resources\\WidgetOportunidadesActivas.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T06:09:44.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm.Designer.cs",
-              "RelativeToolTip": "CRM IngSoftware\\Presentation\\MainForm.Designer.cs",
-              "ViewState": "AgIAAOEAAAAAAAAAAAAowKIAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T07:44:23.972Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -238,6 +205,33 @@
               "RelativeToolTip": "CRM IngSoftware\\Resources\\GadgetCalendario.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T06:25:07.433Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm2.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\MainForm2.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\MainForm2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:58:50.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "CRM IngSoftware\\Presentation\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\CRM IngSoftware\\CRM IngSoftware\\Presentation\\MainForm.Designer.cs",
+              "RelativeToolTip": "CRM IngSoftware\\Presentation\\MainForm.Designer.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAowKIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:44:23.972Z"
             },
             {
               "$type": "Document",
@@ -502,8 +496,7 @@
               "RelativeToolTip": "CRM IngSoftware\\app.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-11T06:33:28.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T06:33:28.599Z"
             },
             {
               "$type": "Document",
