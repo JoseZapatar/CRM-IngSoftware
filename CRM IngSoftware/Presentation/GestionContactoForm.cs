@@ -14,44 +14,62 @@ namespace CRM_IngSoftware.Presentation
     public partial class GestionContactoForm : Form
     {
         private MySqlConnection dbConnection;
-        private int clienteId;
 
-        public GestionContactoForm(MySqlConnection connection, int idCliente)
+        public GestionContactoForm(MySqlConnection connection)
         {
             InitializeComponent();
             dbConnection = connection;
-            clienteId = idCliente;
+            CargarClientes();
             LlenarComboBoxTipoContacto();
-            CargarContactos();
         }
 
-        private void LlenarComboBoxTipoContacto()
+        private void CargarClientes()
         {
-            cmbTipoContacto.Items.Add("Teléfono");
-            cmbTipoContacto.Items.Add("Correo Electrónico");
-            cmbTipoContacto.Items.Add("Dirección");
-            cmbTipoContacto.Items.Add("Otro");
-            cmbTipoContacto.SelectedIndex = 0; // Seleccionar un valor por defecto
+            try
+            {
+                dbConnection.Open();
+                string query = "SELECT ID_Cliente, Nombre_Cliente FROM Clientes";
+                MySqlCommand cmd = new MySqlCommand(query, dbConnection);
+
+                DataTable dataTable = new DataTable();
+                MySqlDataAdapter adapter = new MySqlDataAdapter(cmd);
+                adapter.Fill(dataTable);
+
+                dgvClientes.DataSource = dataTable;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al cargar clientes: " + ex.Message);
+            }
+            finally
+            {
+                dbConnection.Close();
+            }
         }
 
-        private void CargarContactos()
+        private void dgvClientes_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex >= 0)
+            {
+                int idCliente = Convert.ToInt32(dgvClientes.Rows[e.RowIndex].Cells["ID_Cliente"].Value);
+                CargarContactos(idCliente);
+            }
+        }
+
+        private void CargarContactos(int idCliente)
         {
             try
             {
                 dbConnection.Open();
                 string query = "SELECT Tipo_Contacto, Valor_Contacto FROM Contactos WHERE ID_Cliente = @ID_Cliente";
                 MySqlCommand cmd = new MySqlCommand(query, dbConnection);
-                cmd.Parameters.AddWithValue("@ID_Cliente", clienteId);
+                cmd.Parameters.AddWithValue("@ID_Cliente", idCliente);
 
-                MySqlDataReader reader = cmd.ExecuteReader();
-                dgvContactos.Rows.Clear();
+                DataTable dataTable = new DataTable();
+                MySqlDataAdapter adapter = new MySqlDataAdapter(cmd);
+                adapter.Fill(dataTable);
 
-                while (reader.Read())
-                {
-                    dgvContactos.Rows.Add(reader["Tipo_Contacto"], reader["Valor_Contacto"]);
-                }
-
-                reader.Close();
+                dgvContactos.DataSource = dataTable;
             }
             catch (Exception ex)
             {
@@ -65,18 +83,26 @@ namespace CRM_IngSoftware.Presentation
 
         private void btnAgregarContacto_Click(object sender, EventArgs e)
         {
+            if (dgvClientes.CurrentRow == null)
+            {
+                MessageBox.Show("Selecciona un cliente primero.");
+                return;
+            }
+
+            int idCliente = Convert.ToInt32(dgvClientes.CurrentRow.Cells["ID_Cliente"].Value);
+
             try
             {
                 dbConnection.Open();
                 string query = "INSERT INTO Contactos (ID_Cliente, Tipo_Contacto, Valor_Contacto) VALUES (@ID_Cliente, @TipoContacto, @ValorContacto)";
                 MySqlCommand cmd = new MySqlCommand(query, dbConnection);
-                cmd.Parameters.AddWithValue("@ID_Cliente", clienteId);
+                cmd.Parameters.AddWithValue("@ID_Cliente", idCliente);
                 cmd.Parameters.AddWithValue("@TipoContacto", cmbTipoContacto.SelectedItem.ToString());
                 cmd.Parameters.AddWithValue("@ValorContacto", txtValorContacto.Text);
 
                 cmd.ExecuteNonQuery();
-                MessageBox.Show("Información de contacto agregada correctamente.");
-                CargarContactos(); // Recargar la lista de contactos
+                MessageBox.Show("Contacto agregado correctamente.");
+                CargarContactos(idCliente);
             }
             catch (Exception ex)
             {
@@ -89,20 +115,29 @@ namespace CRM_IngSoftware.Presentation
         }
 
 
+
         private void button1_Click(object sender, EventArgs e)
         {
+            if (dgvClientes.CurrentRow == null)
+            {
+                MessageBox.Show("Selecciona un cliente primero.");
+                return;
+            }
+
+            int idCliente = Convert.ToInt32(dgvClientes.CurrentRow.Cells["ID_Cliente"].Value);
+
             try
             {
                 dbConnection.Open();
                 string query = "INSERT INTO Contactos (ID_Cliente, Tipo_Contacto, Valor_Contacto) VALUES (@ID_Cliente, @TipoContacto, @ValorContacto)";
                 MySqlCommand cmd = new MySqlCommand(query, dbConnection);
-                cmd.Parameters.AddWithValue("@ID_Cliente", clienteId);
+                cmd.Parameters.AddWithValue("@ID_Cliente", idCliente);
                 cmd.Parameters.AddWithValue("@TipoContacto", cmbTipoContacto.SelectedItem.ToString());
                 cmd.Parameters.AddWithValue("@ValorContacto", txtValorContacto.Text);
 
                 cmd.ExecuteNonQuery();
-                MessageBox.Show("Información de contacto agregada correctamente.");
-                CargarContactos(); // Recargar la lista de contactos
+                MessageBox.Show("Contacto agregado correctamente.");
+                CargarContactos(idCliente);
             }
             catch (Exception ex)
             {
@@ -116,7 +151,11 @@ namespace CRM_IngSoftware.Presentation
 
         private void dgvContactos_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-
+            if (e.RowIndex >= 0)
+            {
+                int idCliente = Convert.ToInt32(dgvClientes.Rows[e.RowIndex].Cells["ID_Cliente"].Value);
+                CargarContactos(idCliente);
+            }
         }
 
         private void txtValorContacto_TextChanged(object sender, EventArgs e)
@@ -127,6 +166,32 @@ namespace CRM_IngSoftware.Presentation
         private void cmbTipoContacto_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void dgvClientes_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex >= 0)
+            {
+                int idCliente = Convert.ToInt32(dgvClientes.Rows[e.RowIndex].Cells["ID_Cliente"].Value);
+                CargarContactos(idCliente);
+            }
+        }
+        private void LlenarComboBoxTipoContacto()
+        {
+            // Limpiar el ComboBox antes de llenarlo (opcional)
+            cmbTipoContacto.Items.Clear();
+
+            // Agregar opciones para los tipos de contacto
+            cmbTipoContacto.Items.Add("Teléfono");
+            cmbTipoContacto.Items.Add("Correo Electrónico");
+            cmbTipoContacto.Items.Add("Dirección");
+            cmbTipoContacto.Items.Add("Otro");
+
+            // Seleccionar el primer elemento como predeterminado
+            if (cmbTipoContacto.Items.Count > 0)
+            {
+                cmbTipoContacto.SelectedIndex = 0;
+            }
         }
     }
 }

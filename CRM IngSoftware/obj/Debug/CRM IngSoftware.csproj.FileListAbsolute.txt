@@ -175,3 +175,7 @@ C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoft
 C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GestionContactoForm.resources
 C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GestionInteraccionesForm.resources
 C:\ClubsUNICITbackend-main\CRM-IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.MainForm2.resources
+C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GestionContactoForm.resources
+C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GestionInteraccionesForm.resources
+C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GestionClientesEstadoForm.resources
+C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.FechaHoraWidget.resources

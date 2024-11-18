@@ -54,5 +54,29 @@ namespace CRM_IngSoftware.Presentation
             AgregarOportunidadForm agregarOportunidadForm = new AgregarOportunidadForm(connection);
             agregarOportunidadForm.ShowDialog();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string connectionString = "Server=sql3.freesqldatabase.com;Database=sql3736675;User Id=sql3736675;Password=HMNnvBQYSN;";
+            MySqlConnection connection = new MySqlConnection(connectionString);
+            GestionInteraccionesForm gestionInteraccionesForm = new GestionInteraccionesForm(connection);
+            gestionInteraccionesForm.ShowDialog();
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string connectionString = "Server=sql3.freesqldatabase.com;Database=sql3736675;User Id=sql3736675;Password=HMNnvBQYSN;";
+            MySqlConnection connection = new MySqlConnection(connectionString);
+            GestionContactoForm gestionContactoForm = new GestionContactoForm(connection); gestionContactoForm.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            string connectionString = "Server=sql3.freesqldatabase.com;Database=sql3736675;User Id=sql3736675;Password=HMNnvBQYSN;";
+            MySqlConnection connection = new MySqlConnection(connectionString);
+            GestionClientesEstadoForm gestionClientesEstadoForm =new GestionClientesEstadoForm(connection);
+            gestionClientesEstadoForm.ShowDialog();
+        }
     }
 }

@@ -48,6 +48,7 @@
             this.btnTarea = new System.Windows.Forms.Button();
             this.btnGrafico = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.fechaHoraWidget1 = new CRM_IngSoftware.FechaHoraWidget();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -121,6 +122,7 @@
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.Info;
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel1.Controls.Add(this.fechaHoraWidget1);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.btnCalendario);
             this.panel1.Controls.Add(this.btnOportunidades);
@@ -209,6 +211,14 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
+            // fechaHoraWidget1
+            // 
+            this.fechaHoraWidget1.BackColor = System.Drawing.SystemColors.Info;
+            this.fechaHoraWidget1.Location = new System.Drawing.Point(120, 421);
+            this.fechaHoraWidget1.Name = "fechaHoraWidget1";
+            this.fechaHoraWidget1.Size = new System.Drawing.Size(477, 81);
+            this.fechaHoraWidget1.TabIndex = 11;
+            // 
             // MainForm
             // 
             this.BackColor = System.Drawing.SystemColors.Info;
@@ -238,6 +248,7 @@
         private System.Windows.Forms.Button btnGrafico;
         private System.Windows.Forms.Button btnCalendario;
         private System.Windows.Forms.Button button1;
+        private FechaHoraWidget fechaHoraWidget1;
     }
 }
 
