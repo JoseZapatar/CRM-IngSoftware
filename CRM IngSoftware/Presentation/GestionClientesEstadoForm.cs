@@ -146,5 +146,13 @@ namespace CRM_IngSoftware.Presentation
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // En el formulario principal o desde donde se llame:
+            ActualizadorEstadosForm form = new ActualizadorEstadosForm(new DatabaseConnection().GetConnection());
+            form.Show();
+
+        }
     }
 }

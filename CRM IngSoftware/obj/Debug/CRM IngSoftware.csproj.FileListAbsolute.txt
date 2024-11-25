@@ -179,3 +179,4 @@ C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftwa
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GestionInteraccionesForm.resources
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.GestionClientesEstadoForm.resources
 C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.FechaHoraWidget.resources
+C:\Users\josea\Documents\CRM IngSoftware\CRM IngSoftware\obj\Debug\CRM_IngSoftware.Presentation.ActualizadorEstadosForm.resources

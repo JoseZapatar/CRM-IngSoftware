@@ -137,6 +137,12 @@
     <Compile Include="Presentation\ActivosForm.Designer.cs">
       <DependentUpon>ActivosForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Presentation\ActualizadorEstadosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ActualizadorEstadosForm.Designer.cs">
+      <DependentUpon>ActualizadorEstadosForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Presentation\AgregarEventoForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -273,6 +279,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Presentation\ActivosForm.resx">
       <DependentUpon>ActivosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ActualizadorEstadosForm.resx">
+      <DependentUpon>ActualizadorEstadosForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Presentation\AgregarEventoForm.resx">
       <DependentUpon>AgregarEventoForm.cs</DependentUpon>
