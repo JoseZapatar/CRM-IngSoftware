@@ -73,7 +73,7 @@
             this.Controls.Add(this.graficoVentas1);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "GraficoForm";
-            this.Text = "GraficoForm";
+            this.Text = "0";
             this.Load += new System.EventHandler(this.GraficoForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

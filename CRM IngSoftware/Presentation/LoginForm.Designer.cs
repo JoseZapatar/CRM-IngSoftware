@@ -58,9 +58,9 @@
             this.btnLogin.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.btnLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLogin.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnLogin.Location = new System.Drawing.Point(462, 387);
+            this.btnLogin.Location = new System.Drawing.Point(429, 386);
             this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(136, 44);
+            this.btnLogin.Size = new System.Drawing.Size(211, 44);
             this.btnLogin.TabIndex = 4;
             this.btnLogin.Text = "INGRESAR";
             this.btnLogin.UseVisualStyleBackColor = false;
@@ -70,7 +70,7 @@
             // 
             this.lblCorreo.AutoSize = true;
             this.lblCorreo.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCorreo.Location = new System.Drawing.Point(297, 229);
+            this.lblCorreo.Location = new System.Drawing.Point(297, 226);
             this.lblCorreo.Name = "lblCorreo";
             this.lblCorreo.Size = new System.Drawing.Size(57, 17);
             this.lblCorreo.TabIndex = 0;
@@ -99,9 +99,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::CRM_IngSoftware.Properties.Resources.gestion_de_relaciones_con_el_cliente;
-            this.pictureBox1.Location = new System.Drawing.Point(451, 84);
+            this.pictureBox1.Location = new System.Drawing.Point(461, 85);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(137, 87);
+            this.pictureBox1.Size = new System.Drawing.Size(137, 101);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
